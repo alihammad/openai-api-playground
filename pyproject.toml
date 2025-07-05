@@ -8,4 +8,6 @@ dependencies = [
      "python-dotenv",
      "openai",
      "ipykernel",
+     "pillow",
+     "requests"
 ]
